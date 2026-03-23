@@ -1,0 +1,8 @@
+# use python 3.10
+# numpy
+# matplotlib
+pandas
+seaborn
+plotly
+
+scikit-learn
