@@ -4,5 +4,7 @@
 pandas
 seaborn
 plotly
-
+networkx
+node2vec
+xgboost
 scikit-learn
